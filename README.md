@@ -1,7 +1,9 @@
 The voice-controlled Arduino car is interfaced with a Bluetooth module HC-05. We can give specific voice commands to the car through an Android app installed on the phone. At the receiving side, a Bluetooth transceiver module receives the commands and forwards them to the Arduino and thus the car is controlled.
 
 Car_Controller.apk: This is an Android application which you need to install in you device to control the car.
+
 carProgram.ino: This is the main code which you have to upload in your Arduino.
+
 circuit.png: This is connection map for your circuit.
 
 Components Required:
